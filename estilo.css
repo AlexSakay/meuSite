@@ -1,0 +1,20 @@
+body{background: rgb(219, 216, 216)}
+
+h1 {color:blue; text-align: center; }
+
+p{font-size: 24px; text-align: justify; }
+
+ul{line-height: 30px; }
+
+.imagemBateria{border-radius: 15px; width: 200px; height: 200px }
+
+img{ width: 100px; height: 100px }
+
+table{border-collapse: collapse; padding: 10px}
+td{border: 1px solid black; font-size: 18px; font-family: 'Courier New', Courier, monospace;}
+
+a:hover {color: rgb(175, 3, 3); }
+
+
+
+
